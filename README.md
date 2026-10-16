@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning C++ and Python.
+- 🌱 I’m currently learning Python, C++ and Java.
 <!--
 **yuri-neres/yuri-neres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
